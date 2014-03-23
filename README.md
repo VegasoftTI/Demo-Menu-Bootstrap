@@ -1,8 +1,6 @@
 Demo-Menu-Bootstrap
 ===================
 
-Demo simples para o Carlos verificar a utilização da classe "active" em menus utilizando o Bootstrap.
-
 Basicamente é assim:
 
 - Crie itens de listas (li) com id's.
